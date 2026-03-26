@@ -1,4 +1,4 @@
-# UndergradBeginnerProjects
+# Undergrad Colab Beginner Projects
 A repo for housing all my undergrad data-related projects made in Colab
 
 
